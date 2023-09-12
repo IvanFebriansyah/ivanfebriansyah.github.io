@@ -1,2 +1,1 @@
-# ivanfebriansyah.github.io
-Github Page
+# mypersonal
